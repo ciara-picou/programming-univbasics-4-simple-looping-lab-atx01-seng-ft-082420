@@ -29,3 +29,5 @@ def return_string_array(array)
     while i < array.length do
        array[i].to_s.push
       i += 1
+    end
+  end
